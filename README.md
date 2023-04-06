@@ -17,8 +17,8 @@ Las librerías más importantes utilizadas fueron:
 
 # Archivos en este repositorio
 * README.md:donde hay información sobre lo que se hizo en este trabajo.
-* ???Main: donde estará el código listo, más lo necesario para resolver todos los puntos entregados.
-* Desarrollo: donde estará el avance del proceso, separado por punto a resolver y como comenzarlo.
+* Main: donde estará el código listo, el README, el requirement.txt, el diccionario en csv separado por comas y todos los gráficos en formato png en caso de que no se puedan ver con el código.
+* Desarrollo: donde estará el avance del proceso, separado por punto a resolver y como comenzarlo, y además, el borrador real que está con errores.
 
 # Autor
 Este análisis fue realizado por Carolina Encina.
