@@ -1,5 +1,4 @@
 # Prueba-Mineria-de-datos
-
 # Análisis dataset
 Se presenta el análisis del dataset público 'nhtsa_traffic_fatalities` del proyecto 'bigquery-public-data' de Google Cloud, el cual contiene información detallada sobre accidentes de tráfico el año 2015 en Estados Unidos, tales como los estados donde courrieron, meses, horas, etc.
 
